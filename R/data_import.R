@@ -25,3 +25,5 @@ rawdata <- read.delim('rawdata/DW_3_O/D3O_A1.TXT',sep='',header=FALSE)
 df <- cbind(df,rawdata)
 # Name the columns
 names(df) <- c('vawt','pos','u','v','w','T')
+
+rm(pos,vawt,rawdata)
