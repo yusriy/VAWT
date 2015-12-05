@@ -15,9 +15,10 @@
 
 # Listing all the files in the data folder
 filename <- list.files('data/rawdata')
-# To remove the '.TXT' at the end
+# To remove the '.TXT' at the end...
 path <- as.data.frame(strsplit(filename,split='.TXT'))
-path <- as.character(path[,1])
+# and change ito character
+path1 <- as.character(path)
 
 # Import 10 Hz data
 rawdata <- read.delim('data/rawdata/D3O_A1.TXT',sep='',header=FALSE)
