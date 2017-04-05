@@ -67,7 +67,7 @@ tstamp_end=0
 
 [Instruments]
 instr_1_eastward_separation=0.00
-instr_1_height=1.60
+instr_1_height=1.30
 instr_1_hpath_length=1.0000
 instr_1_id=
 instr_1_manufacturer=young
@@ -87,7 +87,7 @@ end_date=
 file_name=/Users/Yusri/Documents/Work/Data_analysis/VAWT/eddypro_analysis/vawt_eddypro.metadata
 id=
 ini_version=3.2.1
-last_change_date=2017-04-05T14:54:22
+last_change_date=2017-04-05T16:24:22
 start_date=
 sw_version=6.2.0
 title=

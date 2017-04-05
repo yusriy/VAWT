@@ -2,7 +2,7 @@
 [FluxCorrection_SpectralAnalysis_General]
 add_sonic_lptf=1
 ex_dir=
-ex_file=/Users/Yusri/Documents/Work/Data_analysis/VAWT/eddypro_analysis/eddypro_results01/eddypro_E3no_essentials_2017-04-05T162432_adv.csv
+ex_file=/Users/Yusri/Documents/Work/Data_analysis/VAWT/eddypro_analysis/eddypro_results01/eddypro_B2no_essentials_2017-04-05T162213_adv.csv
 horst_lens=2
 sa_bin_spectra=
 sa_ch4_g1_start=1
@@ -95,7 +95,7 @@ hf_correct_ghg_ba=1
 hf_correct_ghg_zoh=1
 hf_meth=1
 ini_version=4.4.2
-last_change_date=2017-04-05T16:24:32
+last_change_date=2017-04-05T16:22:13
 lf_meth=1
 make_dataset=0
 master_sonic=81000_1
@@ -113,7 +113,7 @@ pr_start_date=2013-07-29
 pr_start_time=12:12
 pr_subset=0
 proj_file=/Users/Yusri/Documents/Work/Data_analysis/VAWT/eddypro_analysis/vawt_eddypro.metadata
-project_id=E3no
+project_id=B2no
 project_title=vawt_project
 qc_meth=1
 run_fcc=0
